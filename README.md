@@ -1,4 +1,4 @@
-# Lab 5: On Vaccines
+# Lab 4: On Vaccines
 
 **Assigned** : Wednesday, 16th October 2024
 
